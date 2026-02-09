@@ -4,7 +4,7 @@
 
 ---
 
-a tech enthusiast focused on: 
+a tech enthusiast focused on  
 **Reverse Engineering, Malware Analysis, and Low-Level Programming**.
 
 ---
@@ -18,12 +18,28 @@ a tech enthusiast focused on:
 
 ---
 
+## Skills & Languages
+
+| Skills | Languages |
+|------|-----------|
+| Malware Analysis | C |
+| Reverse Engineering | C++ |
+| Network Traffic Analysis | x86 Assembly |
+| Memory Forensics | x64 Assembly |
+| Windows Internals | PHP |
+| Computer Networking |  |
+| Operating Systems |  |
+| Computer Architecture |  |
+| Linux |  |
+
+---
+
 ## Recent Write-ups & Projects
 
-- XWorm RAT – Full Malware Analysis & Behavioral Breakdown  
+- **XWorm RAT – Full Malware Analysis & Behavioral Breakdown**  
   https://7amthereaper.github.io/posts/xworm-full-analysis/
 
-- Deobfuscating Obfuscated API Calls (CrackMe)  
+- **Deobfuscating Obfuscated API Calls (CrackMe)**  
   https://7amthereaper.medium.com/deobfuscating-obfuscated-api-calls-crackme-f353289d90e9
 
 ---
@@ -31,14 +47,6 @@ a tech enthusiast focused on:
 ## Personal Blog
 
 https://7amthereaper.github.io/
-
----
-
-## Languages
-
-- C / C++
-- x86 / x64 Assembly
-- PHP
 
 ---
 
