@@ -57,6 +57,7 @@ https://7amthereaper.github.io/
 - x64dbg / WinDbg
 - PE-bear / PEview
 - HxD
+- DnSpy
 - Process Monitor
 - Process Hacker
 - API Monitor
