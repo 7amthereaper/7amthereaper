@@ -4,8 +4,7 @@
 
 ---
 
-a tech enthusiast focused on  
-**Reverse Engineering, Malware Analysis, and Low-Level Programming**.
+a tech enthusiast focused on: **Reverse Engineering, Malware Analysis, and Low-Level Programming**.
 
 ---
 
