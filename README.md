@@ -1,12 +1,8 @@
 <h1 align="center">
-  Yo salute , I'm <a href="https://7amthereaper.github.io/">7amthereaper</a>
+  salute , I'm <a href="https://7amthereaper.github.io/">7amthereaper</a>
 </h1>
-
----
-
 a tech enthusiast focused on: **Reverse Engineering, Malware Analysis, and Low-Level Programming**.
 
----
 
 ## What I Do
 
