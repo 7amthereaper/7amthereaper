@@ -1,7 +1,7 @@
 <h1 align="center">
   salute , I'm <a href="https://7amthereaper.github.io/">7amthereaper</a>
+  a tech enthusiast focused on Reverse Engineering, Malware Analysis, and Low-Level Programming.
 </h1>
-a tech enthusiast focused on: **Reverse Engineering, Malware Analysis, and Low-Level Programming**.
 
 
 ## What I Do
